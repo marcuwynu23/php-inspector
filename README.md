@@ -1,4 +1,13 @@
-# PHP Inspector
+<div align="center">
+  <h1> PHP Inspector </h1>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/marcuwynu23/php-inspector.svg" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/marcuwynu23/php-inspector.svg" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/issues/marcuwynu23/php-inspector.svg" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/license/marcuwynu23/php-inspector.svg" alt="License Badge"/>
+</p>
 
 A PHP-friendly tool to inspect and log PHP classes and objects with reflection.
 
