@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/license/marcuwynu23/php-inspector.svg" alt="License Badge"/>
 </p>
 
-A PHP-friendly tool to inspect and log PHP classes and objects with reflection.
+A PHP-friendly developer tool for logging and inspecting PHP classes, objects, and data structures.
 
 ---
 
