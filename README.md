@@ -1,6 +1,6 @@
 # PHP Inspector
 
-A Laravel-friendly tool to inspect and log PHP classes and objects with reflection.
+A PHP-friendly tool to inspect and log PHP classes and objects with reflection.
 
 ---
 
