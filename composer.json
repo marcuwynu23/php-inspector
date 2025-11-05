@@ -1,7 +1,7 @@
 {
   "name": "marcuwynu23/php-inspector",
   "description": "A PHP-friendly developer tool for logging and inspecting PHP classes, objects, and data structures.",
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "type": "library",
   "license": "MIT",
   "autoload": {
