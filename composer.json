@@ -1,7 +1,7 @@
 {
   "name": "marcuwynu23/php-inspector",
   "description": "A Laravel-friendly tool to inspect and log classes and objects with reflection",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "type": "library",
   "license": "MIT",
   "autoload": {
